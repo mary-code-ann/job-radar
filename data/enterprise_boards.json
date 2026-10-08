@@ -1,0 +1,38 @@
+{
+  "notes": "Verified live against each career-site list API. Workday CXS or SuccessFactors CSB/RMK only.",
+  "boards": [
+    {
+      "name": "Accenture",
+      "ats": "workday",
+      "board_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
+      "website": "https://www.accenture.com/in-en/careers",
+      "india_hint": true,
+      "remote_hint": true,
+      "chennai_hint": true
+    },
+    {
+      "name": "Wipro",
+      "ats": "successfactors",
+      "board_url": "https://careers.wipro.com",
+      "website": "https://careers.wipro.com",
+      "india_hint": true,
+      "chennai_hint": true
+    },
+    {
+      "name": "HCLTech",
+      "ats": "successfactors",
+      "board_url": "https://careers.hcltech.com",
+      "website": "https://careers.hcltech.com",
+      "india_hint": true,
+      "chennai_hint": true
+    },
+    {
+      "name": "Capgemini",
+      "ats": "successfactors",
+      "board_url": "https://careers.capgemini.com",
+      "website": "https://careers.capgemini.com",
+      "india_hint": true,
+      "chennai_hint": true
+    }
+  ]
+}

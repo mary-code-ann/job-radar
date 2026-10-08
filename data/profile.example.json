@@ -1,0 +1,25 @@
+{
+  "name": "Your Name",
+  "yoe": 3,
+  "yoe_max_apply": 5,
+  "location": "City, Country",
+  "target_titles": [
+    "AI Automation Engineer",
+    "Python Backend Engineer"
+  ],
+  "target_families": [
+    "ai_automation",
+    "voice_ai",
+    "python_backend",
+    "itom_servicenow"
+  ],
+  "stack_strong": ["Python", "FastAPI", "REST"],
+  "stack_secondary": [],
+  "locations": ["India remote"],
+  "min_lpa": 12,
+  "hard_floor_lpa": 8,
+  "service_companies_ok": true,
+  "proof_points": [
+    "One line about a project you can talk about in a brief"
+  ]
+}

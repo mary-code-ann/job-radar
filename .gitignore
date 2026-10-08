@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Secrets. Real values stay on this machine.
+.env
+.env.*
+!.env.example
+
+# Personal profile (name, employers, salary). Commit the example only.
+data/profile.json
+
+# Harvested boards, live matches, ranks, and briefs.
+data/raw/
+data/*.jsonl
+data/*.csv
+data/*.log
+data/*.sqlite
+data/*.sqlite-wal
+data/*.sqlite-shm
+data/*_summary.json
+data/probe_enterprise.json
